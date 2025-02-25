@@ -1,0 +1,7 @@
+csharp
+Copy
+Edit
+## Ownership of PRAYOJN  
+The PRAYOJN digital solution is owned and maintained by:  
+*ADMIRE Centre for Advancing Digital Health*  
+This software is developed under the guidance of IIHMR Bangalore.
